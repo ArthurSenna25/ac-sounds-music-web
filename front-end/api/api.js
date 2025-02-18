@@ -1,6 +1,5 @@
 // Fetch ou Axios
 import axios from "axios";
-import "dotenv/config";
 
 const URL = "https://deploy-ac-sounds.onrender.com/api";
 
